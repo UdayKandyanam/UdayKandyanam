@@ -20,6 +20,12 @@ At UnitedHealth Group I work on the platform team. Recent work includes Go and P
 
 [Incident Investigator](https://github.com/UdayKandyanam/incident-investigator): a read-only Python investigator for Kubernetes incidents. It scores the likely root cause, cites runbook sections, marks every proposed action as needing human approval, and is scored against an evaluation set of synthetic incidents.
 
+[Terraform EKS Node Group](https://github.com/UdayKandyanam/terraform-eks-node-group): a Terraform module for an Amazon EKS managed node group, with validated inputs, the node IAM role, an example root module, and automated tests on a mock provider.
+
+[KubePulse MCP](https://github.com/UdayKandyanam/kubepulse-mcp): an MCP server that exposes KubePulse diagnosis and snapshot diffing as tools an LLM client can call. Read-only, like KubePulse itself.
+
+[SLO Lab](https://github.com/UdayKandyanam/slo-lab): a small SLO setup that runs as one Compose stack: a sample service with Prometheus metrics, a 99.9 percent availability SLO, multi-window burn rate alerts, and a Grafana error budget dashboard.
+
 [Portfolio site](https://github.com/UdayKandyanam/udaykandyanam.github.io): the source for udaykandyanam.com, a single page site built with plain HTML and CSS.
 
 ## Stack I use day to day
