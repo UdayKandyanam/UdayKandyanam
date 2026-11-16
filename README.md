@@ -1,6 +1,6 @@
 # Uday Kandyanam
 
-Senior Software Engineer working on platform engineering and applied AI. Based in Newark, Delaware.
+Senior Software Engineer working on platform engineering and applied AI.
 
 I operate Kubernetes platforms on AWS and Azure and build the tooling around them: CI/CD for hundreds of microservices, internal platform APIs, and LLM agents that help platform teams triage incidents and find answers in their own documentation.
 
